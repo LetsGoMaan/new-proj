@@ -14,5 +14,3 @@ function pump() {
         </div>
 
     )}
-
-export default pump;
